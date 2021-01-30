@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8D208522-089E-4230-B6B5-2E6BE9BC2876}|Default">
+  <MonoDevelop.Ide.ItemProperties.YTModel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VaccineData.cs">
+    <Files>
+      <File FileName="Program.cs" Line="25" Column="39" />
+      <File FileName="country_vaccinations.csv" Line="2" Column="1" />
+      <File FileName="VaccineData.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YTModel" expanded="True">
+            <Node name="YTModel" expanded="True">
+              <Node name="VaccineData.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

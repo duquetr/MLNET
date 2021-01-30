@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/duquetr/src/MLNET/YouTubeModel/YTModel/YTModel.csproj": {}
+  },
+  "projects": {
+    "/Users/duquetr/src/MLNET/YouTubeModel/YTModel/YTModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/duquetr/src/MLNET/YouTubeModel/YTModel/YTModel.csproj",
+        "projectName": "YTModel",
+        "projectPath": "/Users/duquetr/src/MLNET/YouTubeModel/YTModel/YTModel.csproj",
+        "packagesPath": "/Users/duquetr/.nuget/packages/",
+        "outputPath": "/Users/duquetr/src/MLNET/YouTubeModel/YTModel/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/duquetr/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
